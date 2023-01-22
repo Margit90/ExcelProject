@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/exelprojekt.iml" filepath="$PROJECT_DIR$/.idea/exelprojekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exl/exl.iml" filepath="$PROJECT_DIR$/exl/exl.iml" />
+    </modules>
+  </component>
+</project>
